@@ -189,12 +189,25 @@ h3, p {
   color: #FFFFFF;
 }
 
+.special-offers-list-item:last-child > .special-offers-item-title {
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 60px;
+}
+
 .special-offers-price {
   margin-bottom: auto;
   font-weight: 400;
   font-size: 20px;
   line-height: 20px;
   color: #ffffff;
+  opacity: 0.8;
+}
+
+.special-offers-list-item:last-child > .special-offers-price {
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 30px;
 }
 
 .special-offers-link {
