@@ -516,6 +516,7 @@ a:active {
   font-size: 16px;
   line-height: 16px;
   border: none;
+  background-color: inherit;
 }
 
 .input-date {
@@ -524,6 +525,7 @@ a:active {
   font-size: 16px;
   line-height: 16px;
   border: none;
+  background-color: inherit;
 }
 
 .input-counter {
@@ -532,6 +534,7 @@ a:active {
   font-size: 16px;
   line-height: 16px;
   border: none;
+  background-color: inherit;
 }
 
 .btn-form {
